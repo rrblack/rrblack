@@ -1,10 +1,20 @@
-# Hi, I'm Kyle Porter 👋
+# Kyle Porter 👋
 
-**Bilingual Full-Stack Web Developer** based in Tokyo, Japan 🇯🇵🇺🇸
+**Full-Stack Web Developer** · Tokyo, Japan 🇯🇵🇺🇸
 
-I'm an American engineer living and working in Japan with native English and business-level Japanese (JLPT N1). I build production web applications end-to-end — from architecture and backend logic to frontend implementation and cloud deployment. I'm particularly experienced in translating professional Figma designs into polished, performant Next.js applications.
+---
 
-Currently working as a Network Operations Engineer while actively building web projects independently, with a focus on transitioning fully into a web development role.
+## My Story
+
+I didn't start in tech.
+
+I graduated from the University of Tennessee with a degree in International Business, moved to rural Japan on the JET Programme, and spent a year teaching English in a small fishing town in Kochi Prefecture with no other foreigners around. That's where my Japanese got serious.
+
+After JET I moved to Tokyo, and somewhere along the way I started wondering if I could actually build things on the internet. In July 2024 I sat down with a Python course and started from zero.
+
+Eight months later I had an IT job. A year after that I had live websites in production, a client project delivered from professional Figma specifications, and a clear direction: web development.
+
+This GitHub is the record of that journey. Every commit from someone who decided to start building and hasn't stopped.
 
 ---
 
@@ -25,16 +35,14 @@ Currently working as a Network Operations Engineer while actively building web p
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-**Database & Backend Services**
+**Database & Services**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Infrastructure & DevOps**
+**Infrastructure & Tools**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -42,57 +50,61 @@ Currently working as a Network Operations Engineer while actively building web p
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**AI & Automation**
-
-![Claude](https://img.shields.io/badge/Claude_API-000000?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
 ---
 
-## 🚀 Live Projects
+## 🚀 Projects
 
 ### 🌐 [kylesjapan.life](https://www.kylesjapan.life)
-**Bilingual Blog — English & Japanese**
+**Bilingual Blog; English & Japanese**
 
-A fully self-built bilingual blog covering life in Japan as a foreigner. Designed, developed, and operated independently from scratch.
+My first real production project. A bilingual blog about life in Japan as a foreigner. Designed, built, and operated entirely by me. This is where I learned what it actually means to ship something.
 
-- **Stack:** Next.js App Router, TypeScript, Supabase (PostgreSQL), Cloudflare Pages, Docker
-- **Features:** SSR/SSG, i18n (full EN/JP), comment system with translation, MDX blog management, Immich image API integration, newsletter system
-- **Highlights:** 20+ newsletter subscribers, consistent monthly readership
+- **Stack:** Next.js App Router, TypeScript, Supabase, Cloudflare Pages
+- **Features:** Full EN/JP i18n, newsletter system, image integration, SSR/SSG
+- **Status:** Live and actively maintained
 
 ---
 
 ### 🏢 [moapro.jp](https://moapro.jp)
-**Corporate Website — BIGO LIVE Partner Startup**
+**Corporate Website; Client Project**
 
-Full corporate website delivered for a real client — implemented from professional Figma specifications provided by a dedicated designer.
+A corporate website built for a real client; a BIGO LIVE partner startup. The company hired a professional designer who produced Figma specifications, and I implemented the entire site from those designs. This was my first experience working in a proper designer to developer handoff workflow.
 
-- **Stack:** Next.js, TypeScript, JavaScript, CSS, PHP, Cloudflare Pages
-- **Features:** Google Tag Manager integration, conversion tracking, contact form (PHP), AOS scroll animations, fully responsive
-- **Highlights:** End-to-end delivery from Figma handoff to production deployment. Currently undergoing a full redesign based on new Figma specifications.
+- **Stack:** Next.js, TypeScript, PHP, Cloudflare Pages
+- **Features:** GTM integration, conversion tracking, contact form, AOS animations, fully responsive
+- **Status:** Live in production. Currently implementing a full redesign from new Figma specifications.
 
 ---
 
-### 🤖 Ticket Automation Tool *(Private — internal tool)*
-**Network Operations Automation**
+### 🔐 [Login Screen](https://github.com/rrblack/loginscreen)
+**Employee Login Portal**
 
-A web-based automation tool built to streamline incident ticket processing at a major network operations center supporting Rakuten Group infrastructure.
+A login screen interface originally intended as an employee login portal. Built independently while working directly under the CTO. My first experience receiving technical direction from senior leadership and delivering to a real internal brief.
 
-- **Stack:** FastAPI (Python), React (Vite + Tailwind CSS), Paramiko (SSH), Claude API, openpyxl
-- **Features:** SSH log retrieval, AI-powered root cause analysis generation (Claude API), automated Excel report export
-- **Highlights:** Processes and analyzes 800+ incident tickets. Demonstrated real business impact in a production environment.
+- **Stack:** Django, Python, Bootstrap
+- **Status:** Completed
+
+---
+
+### ⚙️ Rails Portfolio Site *(in progress)*
+**Personal Portfolio; Ruby on Rails**
+
+Currently learning Ruby on Rails by building my portfolio site. Active development.
+
+- **Stack:** Ruby on Rails, Tailwind CSS, Hotwire, Stimulus, ERB
+- **Status:** In active development
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Issued |
+| Certification | Year |
 |---|---|
-| 🟡 AWS Certified Developer – Associate | July 2025 |
-| 🟢 AWS Certified AI Practitioner | September 2025 |
-| ⚪ AWS Certified Cloud Practitioner | December 2024 |
-| 🔵 Microsoft AZ-900 Azure Fundamentals | December 2024 |
-| 🇯🇵 JLPT N1 — Japanese Language Proficiency | December 2024 |
+| 🟡 AWS Certified Developer – Associate | 2025 |
+| 🟢 AWS Certified AI Practitioner | 2025 |
+| ⚪ AWS Certified Cloud Practitioner | 2024 |
+| 🔵 Microsoft AZ-900 Azure Fundamentals | 2024 |
+| 🇯🇵 JLPT N1 Japanese Language Proficiency | 2024 |
 
 ---
 
@@ -100,18 +112,7 @@ A web-based automation tool built to streamline incident ticket processing at a 
 
 **University of Tennessee, Knoxville**
 B.S. International Business & Business Management
-Graduated Summa Cum Laude — GPA 3.87 / 4.0 (May 2022)
-
----
-
-## 💼 Professional Background
-
-- **Network Operations Engineer** @ DASAN Network Solutions via Freewill (2025–present)
-  Managing 1000+ network devices, Python automation, CI/CD pipelines, 24/7 support for Rakuten Group
-- **Content Creator & Translator** @ my.best Inc. (2023–2024)
-  Japanese/English technical content, article management, SEO optimization
-- **ALT (English Teacher)** @ JET Programme, Muroto City (2022–2023)
-  5 schools, bilingual instruction, community engagement
+Summa Cum Laude; GPA 3.87 / 4.0
 
 ---
 
@@ -119,25 +120,17 @@ Graduated Summa Cum Laude — GPA 3.87 / 4.0 (May 2022)
 
 | Language | Level |
 |---|---|
-| English | Native |
-| Japanese | JLPT N1 — Business level |
+| 🇺🇸 English | Native |
+| 🇯🇵 Japanese | JLPT N1; Business level |
 
 ---
 
-## 📊 GitHub Stats
+## 📬 Find Me
 
-![rrblack's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrblack&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rrblack&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 📬 Get In Touch
-
-- 🌍 Blog: [kylesjapan.life](https://www.kylesjapan.life)
-- 💼 LinkedIn: [https://www.linkedin.com/in/kyledanielporter](https://www.linkedin.com/in/kyledanielporter/)]
-- 📧 Email: rrblack701@gmail.com
+- 🌍 [kylesjapan.life](https://www.kylesjapan.life)
+- 💼 [linkedin.com/in/kyledanielporter](https://www.linkedin.com/in/kyledanielporter)
+- 📧 rrblack701@gmail.com
 
 ---
 
-*Based in Tokyo, Japan. Open to web engineering roles — frontend, full-stack, or hybrid. Remote or hybrid preferred.*
+*Tokyo based. Actively seeking web engineering roles; frontend, full-stack, or hybrid. Remote or hybrid preferred.*
