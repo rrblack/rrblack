@@ -3,6 +3,9 @@
 **Full-Stack Web Developer** · Tokyo, Japan
 American in Japan · EN / JP
 
+![Based in Tokyo](https://img.shields.io/badge/Based_in-Tokyo,_Japan-red?style=flat)
+![Bilingual](https://img.shields.io/badge/Language-EN_%2F_JP-blue?style=flat)
+
 ---
 
 ## My Story
@@ -140,7 +143,11 @@ Summa Cum Laude; GPA 3.87 / 4.0
 
 # カイル・ポーター 👋
 
-**フルスタックWebエンジニア** · 東京在住 🇯🇵🇺🇸
+**フルスタックWebエンジニア** · 東京在住
+在日アメリカ人 · 英語ネイティブ / 日本語N1
+
+![東京在住](https://img.shields.io/badge/在住-東京-red?style=flat)
+![バイリンガル](https://img.shields.io/badge/言語-英語_%2F_日本語-blue?style=flat)
 
 ---
 
