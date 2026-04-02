@@ -1,6 +1,7 @@
 # Kyle Porter 👋
 
-**Full-Stack Web Developer** · Tokyo, Japan 🇯🇵🇺🇸
+**Full-Stack Web Developer** · Tokyo, Japan
+American in Japan · EN / JP
 
 ---
 
