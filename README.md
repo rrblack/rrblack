@@ -134,3 +134,139 @@ Summa Cum Laude; GPA 3.87 / 4.0
 ---
 
 *Tokyo based. Actively seeking web engineering roles; frontend, full-stack, or hybrid. Remote or hybrid preferred.*
+
+---
+
+# カイル・ポーター 👋
+
+**フルスタックWebエンジニア** · 東京在住 🇯🇵🇺🇸
+
+---
+
+## 私のストーリー
+
+ITの世界に最初からいたわけではありません。
+
+テネシー大学でビジネスを学んだ後、JETプログラムで日本に渡り、高知県の小さな漁師町で1年間英語教師として働きました。外国人は自分だけという環境の中で、日本語力を本格的に鍛えました。
+
+JET終了後は東京に移り、いつしか「自分でWebサービスを作れるようになりたい」と思うようになりました。2024年7月、Pythonの学習をゼロからスタート。
+
+それから8ヶ月後にはIT企業に就職。さらに1年後には複数のWebサイトを本番環境で運用し、プロのデザイナーが作成したFigmaデザインをもとにクライアントサイトを納品するまでになりました。
+
+このGitHubは、その道のりの記録です。作ることを決めて、今も作り続けています。
+
+---
+
+## 🛠 技術スタック
+
+**フロントエンド**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**バックエンド**
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**データベース・サービス**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**インフラ・ツール**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## 🚀 プロジェクト
+
+### 🌐 [kylesjapan.life](https://www.kylesjapan.life)
+**バイリンガルブログ; 日本語・英語**
+
+日本在住の外国人として日本の生活を発信するバイリンガルブログ。設計から開発、運用まで全て一人で担当しました。「本番環境で動くものを作る」とはどういうことかを学んだプロジェクトです。
+
+- **技術:** Next.js App Router、TypeScript、Supabase、Cloudflare Pages
+- **機能:** 日英完全対応 i18n、ニュースレター機能、SSR/SSG
+- **状況:** 本番稼働中・継続的にメンテナンス中
+
+---
+
+### 🏢 [moapro.jp](https://moapro.jp)
+**コーポレートサイト; クライアント案件**
+
+BIGO LIVEのパートナー企業向けに制作したコーポレートサイト。専属デザイナーが作成したFigmaデザインをもとに実装しました。デザイナーとエンジニアの分業ワークフローを初めて経験したプロジェクトです。
+
+- **技術:** Next.js、TypeScript、PHP、Cloudflare Pages
+- **機能:** GTM連携、コンバージョントラッキング、お問い合わせフォーム、AOSアニメーション、レスポンシブ対応
+- **状況:** 本番稼働中。現在新しいFigmaデザインをもとにフルリニューアル実装中。
+
+---
+
+### 🔐 [ログイン画面](https://github.com/rrblack/loginscreen)
+**社員ログインポータル**
+
+社員向けログインポータルとして設計された画面。CTOと直接連携しながら単独で開発しました。上流の技術方針を受けて実装するという経験を初めて積んだプロジェクトです。
+
+- **技術:** Django、Python、Bootstrap
+- **状況:** 完成
+
+---
+
+### ⚙️ Railsポートフォリオサイト *(開発中)*
+**個人ポートフォリオ; Ruby on Rails**
+
+Ruby on Railsを学びながら制作中のポートフォリオサイト。積極的に開発を進めています。
+
+- **技術:** Ruby on Rails、Tailwind CSS、Hotwire、Stimulus、ERB
+- **状況:** 開発中
+
+---
+
+## 📜 資格
+
+| 資格 | 取得年 |
+|---|---|
+| 🟡 AWS Certified Developer – Associate | 2025年 |
+| 🟢 AWS Certified AI Practitioner | 2025年 |
+| ⚪ AWS Certified Cloud Practitioner | 2024年 |
+| 🔵 Microsoft AZ-900 Azure Fundamentals | 2024年 |
+| 🇯🇵 日本語能力試験 N1 | 2024年 |
+
+---
+
+## 🎓 学歴
+
+**テネシー大学ノックスビル校**
+国際ビジネス・ビジネスマネジメント学士
+最優秀卒業 (Summa Cum Laude); GPA 3.87 / 4.0
+
+---
+
+## 🌍 言語
+
+| 言語 | レベル |
+|---|---|
+| 🇺🇸 英語 | ネイティブ |
+| 🇯🇵 日本語 | JLPT N1; ビジネスレベル |
+
+---
+
+## 📬 連絡先
+
+- 🌍 [kylesjapan.life](https://www.kylesjapan.life)
+- 💼 [linkedin.com/in/kyledanielporter](https://www.linkedin.com/in/kyledanielporter)
+- 📧 rrblack701@gmail.com
+
+---
+
+*東京在住。フロントエンド・フルスタック・ハイブリッドなどWebエンジニアポジションを積極的に探しています。リモートまたはハイブリッド希望。*
